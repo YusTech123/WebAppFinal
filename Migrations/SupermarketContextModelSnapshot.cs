@@ -44,7 +44,7 @@ namespace WebAppFinal.Migrations
 
                     b.HasKey("BasketId");
 
-                    b.ToTable("OrderItems");
+                    b.ToTable("Basket");
                 });
 
             modelBuilder.Entity("WebAppFinal.Models.Category", b =>
@@ -82,7 +82,7 @@ namespace WebAppFinal.Migrations
 
                     b.HasKey("CustomerId");
 
-                    b.ToTable("Users");
+                    b.ToTable("Customers");
                 });
 
             modelBuilder.Entity("WebAppFinal.Models.Order", b =>

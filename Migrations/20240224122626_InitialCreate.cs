@@ -25,7 +25,7 @@ namespace WebAppFinal.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "OrderItems",
+                name: "Basket",
                 columns: table => new
                 {
                     BasketId = table.Column<int>(type: "int", nullable: false)
@@ -37,7 +37,7 @@ namespace WebAppFinal.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_OrderItems", x => x.BasketId);
+                    table.PrimaryKey("PK_Basket", x => x.BasketId);
                 });
 
             migrationBuilder.CreateTable(
@@ -72,7 +72,7 @@ namespace WebAppFinal.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Users",
+                name: "Customers",
                 columns: table => new
                 {
                     CustomerId = table.Column<int>(type: "int", nullable: false)
@@ -82,7 +82,7 @@ namespace WebAppFinal.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Users", x => x.CustomerId);
+                    table.PrimaryKey("PK_Customers", x => x.CustomerId);
                 });
         }
 
@@ -93,7 +93,7 @@ namespace WebAppFinal.Migrations
                 name: "Categories");
 
             migrationBuilder.DropTable(
-                name: "OrderItems");
+                name: "Basket");
 
             migrationBuilder.DropTable(
                 name: "Orders");
@@ -102,7 +102,7 @@ namespace WebAppFinal.Migrations
                 name: "Products");
 
             migrationBuilder.DropTable(
-                name: "Users");
+                name: "Customer");
         }
     }
 }
