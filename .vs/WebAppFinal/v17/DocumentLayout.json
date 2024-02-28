@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\migrations\\20240228163803_identityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:migrations\\20240228163803_identityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\migrations\\20240224122626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:migrations\\20240224122626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\migrations\\20240224122626_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:migrations\\20240224122626_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\migrations\\20240224122626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:migrations\\20240224122626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\webappfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,28 +70,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\AuthModel.cs",
+              "RelativeToolTip": "Models\\AuthModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:24:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240228163803_IdentityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\20240228163803_IdentityAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240228163803_IdentityAdded.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\20240228163803_IdentityAdded.cs",
+              "RelativeToolTip": "Migrations\\20240228163803_IdentityAdded.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:38:03.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:33:31.437Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T16:52:47.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -92,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
@@ -105,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -118,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BasketsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\BasketsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BasketsController.cs",
@@ -131,20 +182,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DBcontext.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\DBcontext.cs",
               "RelativeDocumentMoniker": "Models\\DBcontext.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\DBcontext.cs",
               "RelativeToolTip": "Models\\DBcontext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T16:44:50.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Customers.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\Customers.cs",
               "RelativeDocumentMoniker": "Models\\Customers.cs",
@@ -157,33 +208,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "20240224122626_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\20240224122626_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20240224122626_InitialCreate.Designer.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\20240224122626_InitialCreate.Designer.cs",
               "RelativeToolTip": "Migrations\\20240224122626_InitialCreate.Designer.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAA+wFEAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T16:44:42.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "SupermarketContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\SupermarketContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\SupermarketContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\SupermarketContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\SupermarketContextModelSnapshot.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAA+wE4AAAAsAAAA",
+              "ViewState": "AQIAAAoBAAAAAAAAAAA+wBQBAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T16:43:55.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "WebAppFinal.csproj",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.csproj",
               "RelativeDocumentMoniker": "WebAppFinal.csproj",
@@ -196,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20240224122626_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\20240224122626_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240224122626_InitialCreate.cs",
@@ -209,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

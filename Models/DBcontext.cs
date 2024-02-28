@@ -1,8 +1,10 @@
 ﻿using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 namespace WebAppFinal.Models
 {
-    public class SupermarketContext : DbContext
+    public class SupermarketContext : IdentityDbContext<IdentityUser>
     {
         public SupermarketContext(DbContextOptions<SupermarketContext> options)
         : base(options)

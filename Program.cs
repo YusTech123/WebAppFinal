@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using WebAppFinal.Models;
 
@@ -7,6 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<SupermarketContext>().AddDefaultTokenProviders();
 
 builder.Services.AddDbContext<SupermarketContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
