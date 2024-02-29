@@ -10,6 +10,7 @@ C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Azure.Identi
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\MailKit.dll
+C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
