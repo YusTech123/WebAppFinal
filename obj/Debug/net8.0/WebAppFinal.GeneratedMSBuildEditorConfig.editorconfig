@@ -25,3 +25,47 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Baskets1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0czFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Baskets1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0czFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Baskets1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0czFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Baskets1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0czFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Baskets1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0czFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Customers1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzMVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Customers1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzMVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Customers1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzMVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Customers1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzMVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Customers1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yusuf/source/repos/YusTech123/WebAppFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
