@@ -2,7 +2,7 @@ name: Build and deploy .NET Core application to Web App WebAppFinal2024030415573
 on:
   push:
     branches:
-    - JWTToken-RBAC-RBACTEST
+    - DeploymentToAzure-Rolessetup
 env:
   AZURE_WEBAPP_NAME: WebAppFinal20240304155736
   AZURE_WEBAPP_PACKAGE_PATH: .\publish
@@ -44,5 +44,5 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: ${{ env.AZURE_WEBAPP_NAME }}
-        publish-profile: ${{ secrets.WebAppFinal20240304155736_7ECD }}
+        publish-profile: ${{ secrets.WEBAPPFINAL20240304155736_7ECD }} # Use the secret here
         package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
