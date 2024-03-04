@@ -1,5 +1,6 @@
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\WebAppFinal.staticwebassets.runtime.json
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\WebAppFinal.exe
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\WebAppFinal.deps.json
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\WebAppFinal.runtimeconfig.json
@@ -14,6 +15,7 @@ C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.As
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -38,6 +40,7 @@ C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.En
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Yusuf\source\repos\YusTech123\WebAppFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

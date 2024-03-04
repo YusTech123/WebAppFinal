@@ -626,8 +626,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "roleName",
-        "Type": "System.String",
+        "Name": "model",
+        "Type": "WebAppFinal.CreateRoleModel",
         "IsRequired": true
       }
     ],
@@ -643,7 +643,23 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "WebAppFinal.UpdateRoleModel",
+        "Type": "WebAppFinal.RoleManagementModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppFinal.Controllers.RolesController",
+    "Method": "GetRole",
+    "RelativePath": "api/Roles/{roleName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleName",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -652,29 +668,13 @@
   {
     "ContainingType": "WebAppFinal.Controllers.RolesController",
     "Method": "DeleteRole",
-    "RelativePath": "api/Roles",
+    "RelativePath": "api/Roles/{roleName}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "roleId",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebAppFinal.Controllers.RolesController",
-    "Method": "GetRole",
-    "RelativePath": "api/Roles/{roleId}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "roleId",
+        "Name": "roleName",
         "Type": "System.String",
         "IsRequired": true
       }
@@ -691,7 +691,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "WebAppFinal.AssignRoleModel",
+        "Type": "WebAppFinal.RoleManagementModel",
         "IsRequired": true
       }
     ],

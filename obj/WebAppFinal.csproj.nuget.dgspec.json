@@ -47,13 +47,17 @@
           "dependencies": {
             "MailKit": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.4.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.2, )"
             },

@@ -1,13 +1,15 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using WebAppFinal;
 using WebAppFinal.Controllers;
 using WebAppFinal.Models;
+using WebAppFinal.Information;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddScoped<RolesController>();
 
 builder.Services.AddAuthentication(options =>
 {
@@ -30,8 +32,12 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddControllers();
 
-builder.Services.AddIdentity<IdentityUser, IdentityRole>()
-    .AddEntityFrameworkStores<SupermarketContext>().AddDefaultTokenProviders();
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+{
+    options.SignIn.RequireConfirmedAccount = false;
+})
+.AddEntityFrameworkStores<SupermarketContext>()
+.AddDefaultTokenProviders();
 
 builder.Services.AddDbContext<SupermarketContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
@@ -44,7 +50,6 @@ builder.Services.AddScoped<EmailService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -56,10 +61,23 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
+app.UseAuthorization();
+
 app.MapControllers();
 
-
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        // Seed roles and users
+        await RoleSeedData.InitializeAsync(services);
+    }
+    catch (Exception ex)
+    {
+        // Handle exceptions here, such as logging
+    }
+}
 
 app.Run();
-
-
