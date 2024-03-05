@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\.github\\workflows\\WebAppFinal20240304155736.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\WebAppFinal20240304155736.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\webappfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:webappfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\controllers\\rolemanagementmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:controllers\\rolemanagementmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\webappfinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:webappfinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\.github\\workflows\\WebAppFinal20240304210206.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\WebAppFinal20240304210206.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\controllers\\rolemanagementmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:controllers\\rolemanagementmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:migrations\\20240228163803_identityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\webappfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:webappfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -109,10 +113,6 @@
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\webappfinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:webappfinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\webappfinal\\migrations\\20240224122626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB150484-7327-4F56-BFC6-3F831064A2BC}|WebAppFinal.csproj|solutionrelative:migrations\\20240224122626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -124,7 +124,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -136,33 +136,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebAppFinal20240304155736.yml",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\.github\\workflows\\WebAppFinal20240304155736.yml",
-              "RelativeDocumentMoniker": ".github\\workflows\\WebAppFinal20240304155736.yml",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\.github\\workflows\\WebAppFinal20240304155736.yml",
-              "RelativeToolTip": ".github\\workflows\\WebAppFinal20240304155736.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-03-04T16:56:14.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAABAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T12:33:31.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T12:33:31.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RoleManagementModelsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\RoleManagementModelsController.cs",
               "RelativeDocumentMoniker": "Controllers\\RoleManagementModelsController.cs",
@@ -170,12 +156,11 @@
               "RelativeToolTip": "Controllers\\RoleManagementModelsController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAAAA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T16:09:24.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T16:09:24.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DBcontext.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\DBcontext.cs",
               "RelativeDocumentMoniker": "Models\\DBcontext.cs",
@@ -187,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -199,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
@@ -211,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RoleseedData.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Information\\RoleseedData.cs",
               "RelativeDocumentMoniker": "Information\\RoleseedData.cs",
@@ -223,7 +208,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebAppFinal.http",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.http",
+              "RelativeDocumentMoniker": "WebAppFinal.http",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.http",
+              "RelativeToolTip": "WebAppFinal.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-28T20:30:11.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAppFinal.csproj",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.csproj",
+              "RelativeDocumentMoniker": "WebAppFinal.csproj",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.csproj",
+              "RelativeToolTip": "WebAppFinal.csproj",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T16:37:04.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WebAppFinal20240304210206.yml",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\.github\\workflows\\WebAppFinal20240304210206.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\WebAppFinal20240304210206.yml",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\.github\\workflows\\WebAppFinal20240304210206.yml",
+              "RelativeToolTip": ".github\\workflows\\WebAppFinal20240304210206.yml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-04T21:04:19.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthModel.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\AuthModel.cs",
               "RelativeDocumentMoniker": "Models\\AuthModel.cs",
@@ -235,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SupermarketContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\SupermarketContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\SupermarketContextModelSnapshot.cs",
@@ -247,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "dbo.AspNetUserRoles [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/supermarketproj.database.windows.net/Supermarket/AdminSQL/SqlTable/dbo.AspNetUserRoles.sql",
               "ToolTip": "dbo.AspNetUserRoles [Data]",
@@ -256,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RoleAssignment.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\RoleAssignment.cs",
               "RelativeDocumentMoniker": "Models\\RoleAssignment.cs",
@@ -268,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CreateRoleModel.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\CreateRoleModel.cs",
               "RelativeDocumentMoniker": "Models\\CreateRoleModel.cs",
@@ -280,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -292,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "dbo.AspNetRoles [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/supermarketproj.database.windows.net/Supermarket/AdminSQL/SqlTable/dbo.AspNetRoles.sql",
               "ToolTip": "dbo.AspNetRoles [Data]",
@@ -301,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/supermarketproj.database.windows.net/Supermarket/AdminSQL/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -310,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "dbo.AspNetRoleClaims [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/supermarketproj.database.windows.net/Supermarket/AdminSQL/SqlTable/dbo.AspNetRoleClaims.sql",
               "ToolTip": "dbo.AspNetRoleClaims [Data]",
@@ -319,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "20240228163803_IdentityAdded.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Migrations\\20240228163803_IdentityAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20240228163803_IdentityAdded.cs",
@@ -331,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Services\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Services\\EmailSettings.cs",
@@ -343,19 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WebAppFinal.csproj",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.csproj",
-              "RelativeDocumentMoniker": "WebAppFinal.csproj",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.csproj",
-              "RelativeToolTip": "WebAppFinal.csproj",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-26T16:37:04.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -367,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -379,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal\\README.md",
               "RelativeDocumentMoniker": "WebAppFinal\\README.md",
@@ -391,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Basket.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Models\\Basket.cs",
               "RelativeDocumentMoniker": "Models\\Basket.cs",
@@ -403,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "BasketsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\BasketsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BasketsController.cs",
@@ -415,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "dbo.AspNetUserTokens [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.AspNetUserTokens.sql",
               "ToolTip": "dbo.AspNetUserTokens [Data]",
@@ -424,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "dbo.AspNetRoleClaims [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.AspNetRoleClaims.sql",
               "ToolTip": "dbo.AspNetRoleClaims [Data]",
@@ -433,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -445,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -454,18 +464,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAMBowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T16:52:06.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "WebAppFinal.http",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.http",
-              "RelativeDocumentMoniker": "WebAppFinal.http",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\WebAppFinal\\WebAppFinal.http",
-              "RelativeToolTip": "WebAppFinal.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-02-28T20:30:11.748Z"
             },
             {
               "$type": "Document",
