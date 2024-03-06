@@ -4,7 +4,8 @@ Step 1:
 
 I created a repo on GitHub called “WebAppFinal”
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/67183c3d-d89e-445d-9296-53954172b59d/e88e30a3-fee3-44f0-999b-1ab7d0dd6bf0/Untitled.png)
+![Untitled (2)](https://github.com/YusTech123/WebAppFinal/assets/115075205/3a4d7ac5-8e40-49c4-82a5-2bc6f0d04aaf)
+
 
 Step 2: I cloned the Connected the Repo from GitHub onto my laptop. Additionally, I ran the command “`Cd C:\Which\Contains\source\repos\from my github` on Command prompt. This allowed me to change to this directory. Once, I was in the correct Directory. I ran the command  `dotnet  new Webapi`” . This generated the following  template for me in the folder. 
  
